@@ -3,11 +3,11 @@
 # 🥇 실전 훈련
 |총 문제 수|티어|유형|
 |---:|---|---|
-|1|![Gold1][g1] ~ ![Gold1][g1]|`dx dy technique` `Simulation`|
+|1|![Gold1][g1] ~ ![Gold1][g1]|`Simulation` `dx dy technique`|
 
 |기록분류|이름|티어|유형|상태|최근 제출 코드|
 |---|---|---|---|---|---|
-|기출문제|[술래잡기](https://www.codetree.ai/training-field/frequent-problems/problems/hide-and-seek)|![Gold1][g1]|`dx dy technique` `Simulation`|![Passed][passed]|[링크](https://github.com/yo0o0n/codetree-TILs/blob/main/241023/%EC%88%A0%EB%9E%98%EC%9E%A1%EA%B8%B0/hide-and-seek.cpp)|
+|기출문제|[술래잡기](https://www.codetree.ai/training-field/frequent-problems/problems/hide-and-seek)|![Gold1][g1]|`Simulation` `dx dy technique`|![Passed][passed]|[링크](https://github.com/yo0o0n/codetree-TILs/blob/main/241023/%EC%88%A0%EB%9E%98%EC%9E%A1%EA%B8%B0/hide-and-seek.cpp)|
 
 
 
